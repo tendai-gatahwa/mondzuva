@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col-md-12">
             <h1>Contact Us</h1>
-            <span>feel free to send us a message now!</span>
+            <span>feel free to send us a message!</span>
           </div>
         </div>
       </div>
@@ -21,24 +21,24 @@
             <div class="contact-item">
               <i class="fa fa-phone"></i>
               <h4>Phone</h4>
-              <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-              <a href="#">090-080-0760</a>
+              <p></p>
+              <a href="#">+263 77 302 8908</a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-envelope"></i>
               <h4>Email</h4>
-              <p>Vivamus ut tellus mi. Nulla nec cursus elit, id vulputate nec cursus augue.</p>
-              <a href="#">info@company.com</a>
+              <p></p>
+              <a href="#">info@mondzuva.co.zw </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="contact-item">
               <i class="fa fa-map-marker"></i>
               <h4>Location</h4>
-              <p>1020 New Mountain Street<br>Forest Park, FP 11220</p>
-              <a href="#">View on Google Maps</a>
+              <p></p>
+              <a href="https://maps.app.goo.gl/6BjUDhLFwZV6yqBFA" target=blank>View on Google Maps</a>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@
           <div class="col-md-12">
             <div class="section-heading">
               <h2>Send us a <em>message</em></h2>
-              <span>Suspendisse a ante in neque iaculis lacinia</span>
+              <span></span>
             </div>
           </div>
           <div class="col-md-12">
@@ -98,6 +98,21 @@
 	3. Click "Share" and choose "Embed map" tab
 	4. Copy only URL and paste it within the src="" field below
 -->
-      <iframe src="https://maps.google.com/maps?q=Av.+Lúcio+Costa,+Rio+de+Janeiro+-+RJ,+Brazil&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.06488217759!2d29.996892574362484!3d-19.66723713017833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1934a5350f2d90dd%3A0x974f2bf1bef55913!2sMOND%20PETROLEUM!5e0!3m2!1sen!2szw!4v1710143724072!5m2!1sen!2szw" width="1200" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
+
+    <!--<div class="partners contact-partners">-->
+    <!--  <div class="container">-->
+    <!--    <div class="row">-->
+    <!--      <div class="col-md-12">-->
+    <!--        <div class="owl-partners owl-carousel">-->
+    <!--          <div class="partner-item">-->
+    <!--            <img src="assets/images/client-01.png" alt="">-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--</div>-->
+
     <?php include 'includes/footer.php';?>
